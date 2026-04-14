@@ -1,0 +1,5 @@
+{
+  "name": "GitAgent RAG",
+  "description": "Distributed Agentic RAG System for GitHub Codebases with Multi-Agent Orchestration",
+  "requestFramePermissions": []
+}
